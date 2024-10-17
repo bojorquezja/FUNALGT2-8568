@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91ED9ACA-63D9-4A12-9ADA-F38E8709793F}|Proyecto Colegio\\Proyecto Colegio.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\proyecto colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91ED9ACA-63D9-4A12-9ADA-F38E8709793F}|Proyecto Colegio\\Proyecto Colegio.csproj|solutionrelative:proyecto colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32DF47E1-ADD2-41EB-B6C7-A88A39454533}|proyectopersonas\\proyectopersonas.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\proyectopersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DF47E1-ADD2-41EB-B6C7-A88A39454533}|proyectopersonas\\proyectopersonas.csproj|solutionrelative:proyectopersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32DF47E1-ADD2-41EB-B6C7-A88A39454533}|proyectopersonas\\proyectopersonas.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\proyectopersonas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{32DF47E1-ADD2-41EB-B6C7-A88A39454533}|proyectopersonas\\proyectopersonas.csproj|solutionrelative:proyectopersonas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32DF47E1-ADD2-41EB-B6C7-A88A39454533}|proyectopersonas\\proyectopersonas.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\proyectopersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DF47E1-ADD2-41EB-B6C7-A88A39454533}|proyectopersonas\\proyectopersonas.csproj|solutionrelative:proyectopersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91ED9ACA-63D9-4A12-9ADA-F38E8709793F}|Proyecto Colegio\\Proyecto Colegio.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\proyecto colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91ED9ACA-63D9-4A12-9ADA-F38E8709793F}|Proyecto Colegio\\Proyecto Colegio.csproj|solutionrelative:proyecto colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED9ACA-63D9-4A12-9ADA-F38E8709793F}|Proyecto Colegio\\Proyecto Colegio.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\proyecto colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED9ACA-63D9-4A12-9ADA-F38E8709793F}|Proyecto Colegio\\Proyecto Colegio.csproj|solutionrelative:proyecto colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\desktop\\diegot2\\funalgt2-8568\\nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -60,20 +60,20 @@
               "RelativeDocumentMoniker": "proyectopersonas\\Entrenador.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\proyectopersonas\\Entrenador.cs",
               "RelativeToolTip": "proyectopersonas\\Entrenador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:31:21.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\proyectopersonas\\Program.cs",
               "RelativeDocumentMoniker": "proyectopersonas\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\proyectopersonas\\Program.cs",
               "RelativeToolTip": "proyectopersonas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:24:24.494Z",
               "EditorCaption": ""
@@ -92,26 +92,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Salon.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\Proyecto Colegio\\Salon.cs",
               "RelativeDocumentMoniker": "Proyecto Colegio\\Salon.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\Proyecto Colegio\\Salon.cs",
               "RelativeToolTip": "Proyecto Colegio\\Salon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:00:46.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\Proyecto Colegio\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto Colegio\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\diegot2\\FUNALGT2-8568\\Proyecto Colegio\\Program.cs",
               "RelativeToolTip": "Proyecto Colegio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:00:35.595Z",
               "EditorCaption": ""
@@ -126,8 +126,7 @@
               "RelativeToolTip": "nousar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T11:29:35.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:29:35.739Z"
             }
           ]
         }
