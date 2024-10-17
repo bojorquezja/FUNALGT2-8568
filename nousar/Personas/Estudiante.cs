@@ -6,7 +6,24 @@ using System.Threading.Tasks;
 
 namespace nousar
 {
-    internal class Class1
+    public class Estudiante
     {
+        public string Nombre { get; set; }
+
+        public int Edad { get; set; }
+
+        public void Corre()
+        {
+            Console.WriteLine("Mira lo rapido que voy");
+        }
+
+        public void Estudia()
+        {
+            Console.WriteLine("Soy el futuro");
+        }
+        public void Tostring()
+        {
+            Console.WriteLine($"Estudiante: {Nombre} y su edad es {Edad}");
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nousar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7e877abee518aef9480db4d2f19e8c54a7f0bed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+024c6f4ee1416fc97f405c49a246bb9c021d0879")]
 [assembly: System.Reflection.AssemblyProductAttribute("nousar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nousar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

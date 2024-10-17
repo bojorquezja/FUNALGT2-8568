@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace nousar
 {
-    internal class Entrenador
+    public  class Entrenador
     {
         public string Nombre { get; set; }
         public string Deporte { get; set; }
@@ -19,5 +19,11 @@ namespace nousar
         {
             Console.WriteLine("Entrenar es lo mejor para mejorar");
         }
+        public void Tostring()
+        {
+            Console.WriteLine($"\nEl entrenador es: {Nombre} y su frase(o lema) es: {Deporte}");
+            
+        }
+
     }
 }
