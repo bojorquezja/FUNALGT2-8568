@@ -9,7 +9,13 @@ namespace ClassLibrary1
     public class Estudiante
     {
         public void Corre()
-        {   
+        {
+            int edad;
+            string nombre;
+            Console.WriteLine("Cual es tu nombre: ");
+            nombre = Console.ReadLine();
+            Console.WriteLine("Cuantos años tienes: ");
+            edad=int.Parse(Console.ReadLine());
             Console.WriteLine("Correr es bueno para la salud");
         }
         public void Estudia() 
@@ -22,11 +28,11 @@ namespace ClassLibrary1
     {
         public void HaceEjercicio()
         {
-
+            Console.WriteLine("Los estudiantes hacen ejercicios");
         }
         public void EntrenaEstudiantes()
         {
-
+            Console.WriteLine("Los estudiantes entrenan en el colegio");
         }
     }
 }
