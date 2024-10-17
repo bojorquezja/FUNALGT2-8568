@@ -1,0 +1,5 @@
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\Proyecto Colegio\obj\Debug\net8.0\Proyecto Colegio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\Proyecto Colegio\obj\Debug\net8.0\Proyecto Colegio.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\Proyecto Colegio\obj\Debug\net8.0\Proyecto Colegio.AssemblyInfo.cs
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\Proyecto Colegio\obj\Debug\net8.0\Proyecto Colegio.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\Proyecto Colegio\obj\Debug\net8.0\Proyecto Colegio.sourcelink.json
