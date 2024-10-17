@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Muebles
 {
-    internal class Silla
+    public class Silla
     {
+        public string Color { get; set; }
+        public string Material { get; set; }
+
+        public void Sentarse()
+        {
+            Console.WriteLine("Flexionando rodillas");
+        }
+        public void Moverse()
+        {
+            Console.WriteLine("Estirando las piernas");
+        }
     }
 }
