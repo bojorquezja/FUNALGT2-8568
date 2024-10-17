@@ -3,10 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Personas; 
 
 namespace Colegio
 {
-    internal class Salon
+    public class Salon
     {
+        public Entrenador Entrenador { get; set; }
+        public Estudiante[] Estudiantes { get; set; } = new Estudiante[3];
+
+        public void PasarAsistencia()
+        {
+            Console.WriteLine($"Entrenador: {Entrenador.Nom}");
+            foreach (var estudiante in Estudiantes)
+            {
+                Console.WriteLine($"Estudiante: {estudiante.Nom}");
+            }
+        }
     }
 }
+

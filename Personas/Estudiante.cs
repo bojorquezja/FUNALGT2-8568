@@ -6,7 +6,25 @@ using System.Threading.Tasks;
 
 namespace Personas
 {
-    internal class Estudiante
+    public class Estudiante
     {
+        public string Nom { get; set; }
+        public int Edad { get; set; }
+
+        public void Corre()
+        {
+            Console.WriteLine($"{Nom} está corriendo.");
+        }
+
+        public void Estudia()
+        {
+            Console.WriteLine($"{Nom} está estudiando.");
+        }
+
+        public override string ToString()
+        {
+            return $"Nombre: {Nom}, Edad: {Edad}";
+        }
     }
 }
+
