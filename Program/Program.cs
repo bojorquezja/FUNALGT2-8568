@@ -18,6 +18,5 @@ Console.WriteLine("Inserte nombre el alumno 3: ");
 Console.WriteLine("Inserte nombre del entrenador: ");
  Eu_.Name = Console.ReadLine();
 salon.PasarAsistencia();
-
 E1_.Estudia();
 Eu_.HaceEjercicio();
