@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\colegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\colegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\colegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\colegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Estudiante.cs",
               "RelativeDocumentMoniker": "nousar\\Personas\\Estudiante.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Estudiante.cs",
               "RelativeToolTip": "nousar\\Personas\\Estudiante.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:58:56.538Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "nousar\\Personas\\Entrenador.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Entrenador.cs",
               "RelativeToolTip": "nousar\\Personas\\Entrenador.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:58:49.018Z",
               "EditorCaption": ""
@@ -94,26 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Salon.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Salon.cs",
               "RelativeDocumentMoniker": "nousar\\Salon.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Salon.cs",
-              "RelativeToolTip": "nousar\\Salon.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Salon.cs*",
+              "RelativeToolTip": "nousar\\Salon.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:41:33.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Colegio.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Colegio.cs",
               "RelativeDocumentMoniker": "nousar\\Colegio.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Colegio.cs*",
               "RelativeToolTip": "nousar\\Colegio.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T11:29:35.739Z",
               "EditorCaption": ""

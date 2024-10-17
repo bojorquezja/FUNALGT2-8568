@@ -39,12 +39,8 @@ es2.Edad = edad2;
 es3.Nombre = Estud3;
 es3.Edad = edad3;
 en1.Nombre = Entrenador;
-en1.Deporte = depor; 
-Console.WriteLine($"{ sl.PasaAsistencia}");
-Console.WriteLine(es1.ToString());
-Console.WriteLine(es2.ToString());
-Console.WriteLine(es3.ToString());
-Console.WriteLine(en1.ToString());
+en1.Deporte = depor;
+sl.PasaAsistencia();
 
 if (depor == "ejercicio" || depor == "hace ejercicio")
 {
@@ -56,6 +52,6 @@ else if (depor == "entrena")
     Console.WriteLine(salon1.Estudia);
     Console.WriteLine(curso1.EntrenaEstudiante);
 }
-
+Console.ReadKey();
 
 

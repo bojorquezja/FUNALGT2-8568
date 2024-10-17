@@ -21,9 +21,6 @@ namespace nousar
         {
             Console.WriteLine("Soy el futuro");
         }
-        public void Tostring()
-        {
-            Console.WriteLine($"Estudiante: {Nombre} y su edad es {Edad}");
-        }
+        
     }
 }
