@@ -1,0 +1,15 @@
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.AssemblyInfo.cs
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.sourcelink.json
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\bin\Debug\net8.0\proyectopersonas.exe
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\bin\Debug\net8.0\proyectopersonas.deps.json
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\bin\Debug\net8.0\proyectopersonas.runtimeconfig.json
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\bin\Debug\net8.0\proyectopersonas.dll
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\bin\Debug\net8.0\proyectopersonas.pdb
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.dll
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\refint\proyectopersonas.dll
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.pdb
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\proyectopersonas.genruntimeconfig.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\proyectopersonas\obj\Debug\net8.0\ref\proyectopersonas.dll

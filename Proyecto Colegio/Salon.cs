@@ -10,12 +10,19 @@ namespace Proyecto_Colegio
     {
         
 
-        public class Entrenador 
-        {}
-        public void PasarAsistencia()
+        
+
+
+
+        
+
+        public void Menúopciones()
         {
-
+            Console.WriteLine($"1. Estudiantes:");
+            Console.WriteLine($"2. Entrenador: ");
+            Console.WriteLine($"3. Muestra Salón y Personas: ");
+            Console.WriteLine("Fin");
         }
-
     }
+
 }

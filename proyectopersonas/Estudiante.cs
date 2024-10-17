@@ -21,7 +21,12 @@ namespace Proyecto_personas
             Console.WriteLine("Este tema es divertido.");
         }
 
+        public void ToString()
+        {
+            Console.WriteLine("Ingrese Nombre: ");
 
+            Nombre = Console.ReadLine(); 
+        }
 
     }
 }

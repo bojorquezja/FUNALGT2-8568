@@ -20,7 +20,12 @@ namespace Proyecto_personas
         {
             Console.WriteLine("Vamos a practicar atletismo.");
         }
-                
 
+        public void ToStringe()
+        {
+            Console.WriteLine("Ingrese Nombre: ");
+
+            Nombre = Console.ReadLine();
+        }
     }
 }
