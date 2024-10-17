@@ -1,17 +1,158 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj": {}
+    "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\nousar\\nousar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj": {
+    "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Colegio\\Colegio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj",
-        "projectName": "nousar",
-        "projectPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj",
+        "projectUniqueName": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Colegio\\Colegio.csproj",
+        "projectName": "Colegio",
+        "projectPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Colegio\\Colegio.csproj",
         "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\obj\\",
+        "outputPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Colegio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UPN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj": {
+                "projectPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\nousar\\nousar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\nousar\\nousar.csproj",
+        "projectName": "nousar",
+        "projectPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\nousar\\nousar.csproj",
+        "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\nousar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UPN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Colegio\\Colegio.csproj": {
+                "projectPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Colegio\\Colegio.csproj"
+              },
+              "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj": {
+                "projectPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj",
+        "projectName": "Personas",
+        "projectPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\Personas.csproj",
+        "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UPN\\source\\repos\\FUNALGT2-8568\\Personas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
