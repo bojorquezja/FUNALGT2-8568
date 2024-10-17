@@ -10,9 +10,9 @@ namespace Colegio
     internal class Salon
     {
         public Entrenador Entrenador1 { get; set; }
-        public EstudiantePersonas Estudiante1 { get; set; }
-        public EstudiantePersonas Estudiante2 { get; set; }
-        public EstudiantePersonas Estudiante3 { get; set; }
+        public Estudiantes Estudiante1 { get; set; }
+        public Estudiantes Estudiante2 { get; set; }
+        public Estudiantes Estudiante3 { get; set; }
 
         public void PasarAsistencia()
         {
