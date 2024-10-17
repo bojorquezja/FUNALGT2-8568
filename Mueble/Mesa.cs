@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Muebles
+namespace Mueble
 {
-    public class Mesa
+    internal class Mesa
     {
         public string Color { get; set; }
         public int Largo { get; set; }
