@@ -17,4 +17,3 @@ string Eu.Name = Console.ReadLine();
 salon.PasarAsistencia();
 E1.Estudia();
 Eu.HaceEjercicio();
-//hola
