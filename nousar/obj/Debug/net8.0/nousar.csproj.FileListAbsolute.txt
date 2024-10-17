@@ -1,0 +1,15 @@
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\bin\Debug\net8.0\nousar.exe
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\bin\Debug\net8.0\nousar.deps.json
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\bin\Debug\net8.0\nousar.runtimeconfig.json
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\bin\Debug\net8.0\nousar.dll
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\bin\Debug\net8.0\nousar.pdb
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.AssemblyInfo.cs
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.sourcelink.json
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.dll
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\refint\nousar.dll
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.pdb
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\nousar.genruntimeconfig.cache
+C:\Users\UPN\Desktop\diegot2\FUNALGT2-8568\nousar\obj\Debug\net8.0\ref\nousar.dll
