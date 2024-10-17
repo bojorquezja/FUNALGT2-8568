@@ -1,13 +1,17 @@
 ﻿using COLEGIO;
 using PERSONAS;
 
-
-Estudiante e1 = new Estudiante();
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        Estudiante e1 = new Estudiante();
 Estudiante e2 = new Estudiante();
 Estudiante e3 = new Estudiante();
 
 
 
+Salon s = new Salon();
 
 Entrenador E = new Entrenador();
 
@@ -40,7 +44,11 @@ E.Nombre = Console.ReadLine();
 Console.WriteLine("Ingrese el deporte del Entrenador: ");
 E.Deporte = Console.ReadLine();
 
-a.Estudiante1 = e1;
-a.Estudiante2 = e2;
-a.Estudiante3 = e3;
-Console.WriteLine();
+s.Estudiante1 = e1;
+s.Estudiante2 = e2;
+s.Estudiante3 = e3;
+
+        s.E = E.Nombre;
+        s.PasarAsistencia();
+        }
+    }
