@@ -51,4 +51,4 @@ namespace Personas
             return $"Entrenador: Nombre = {Nombre}, Deporte = {Deporte}";
         }
     }
-}
+} 
