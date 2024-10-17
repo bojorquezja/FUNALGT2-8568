@@ -1,17 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj": {}
+    "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\nousar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj": {
+    "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\ClassLibrary1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\nousar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj",
+        "projectUniqueName": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\nousar.csproj",
         "projectName": "nousar",
-        "projectPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\nousar.csproj",
+        "projectPath": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\nousar.csproj",
         "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\obj\\",
+        "outputPath": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,7 +47,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\ClassLibrary1.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
