@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace nousar
 {
-    internal class Class2
+    internal class Entrenador
     {
+        public string Nombre { get; set; }
+        public string Deporte { get; set; }
+
+        public void HaceEjercicio()
+        {
+            Console.WriteLine("Hacer ejercicio es muy bueno a la salud");
+        }
+        public void EntrenaEstudiante()
+        {
+            Console.WriteLine("Entrenar es lo mejor para mejorar");
+        }
     }
 }
