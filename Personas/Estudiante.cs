@@ -12,10 +12,10 @@ namespace Personas
         public int Edad { get; set; }
 
         public void Correr() {
-            Console.WriteLine("Que rapido voy");
+            Console.WriteLine("Que rapido voy!");
         }
         public void Estudia() { 
-            Console.WriteLine("Estudiando ando");
+            Console.WriteLine("Estudiando ando!");
         }
         
     }

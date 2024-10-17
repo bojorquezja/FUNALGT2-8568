@@ -36,6 +36,7 @@ s.Ent1 = entrenador1;
 Console.WriteLine("///////////////////////////////////////");
 s.pasarAsistencia();
 Console.WriteLine("///////////////////////////////////////");
+
 estudiante1.Estudia();
 entrenador1.HaceEjercicio();
 
