@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mueble
 {
-    internal class Mesa
+    public class Mesa
     {
         public string Color { get; set; }
         public int Largo { get; set; }

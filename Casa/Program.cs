@@ -20,5 +20,15 @@ n3 = Console.ReadLine();
 Console.Clear();
 
 Sala.Listar();
+Console.WriteLine("");
+Console.WriteLine("******************************");
+Console.WriteLine("\tAlumno N°1: " + n1);
+Console.WriteLine("\tAlumno N°2: " + n2);
+Console.WriteLine("\tAlumno N°3: " + n3);
+Console.WriteLine("******************************");
 
+//Silla.Sentarse(); (falla)
 
+//Mesa.ServirComida(); (falla)
+
+//Profe no entendí las inidicaciones del program :(
