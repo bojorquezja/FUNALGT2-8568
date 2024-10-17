@@ -18,7 +18,7 @@ namespace Personas
         }
 
         public void Estudia() {
-            Console.WriteLine("El estudiante empezó a estudiar");
+            Console.WriteLine("empezó a estudiar");
         }
 
         public void ToString() { 

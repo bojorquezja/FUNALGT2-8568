@@ -1,5 +1,6 @@
 ﻿using Colegio;
 using Personas;
+using System.Linq.Expressions;
 
 Salon a = new Salon();
 
@@ -37,3 +38,9 @@ a.Estudiante3 = e3;
 a.E = E;
 
 a.PasarAsistencia();
+e1.Estudia();
+
+
+E.HaceEjercicio();
+
+

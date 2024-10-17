@@ -17,10 +17,12 @@ namespace Colegio
         public Entrenador E { get; set; }
 
         public void PasarAsistencia() {
-            Console.WriteLine($"Asistencia:{Estudiante1.Nombre}");
+            Console.WriteLine($"Asistencia:\n{Estudiante1.Nombre}");
             Console.WriteLine($"{Estudiante2.Nombre}");
             Console.WriteLine($"{Estudiante3.Nombre}");
-            Console.WriteLine($"Profesor:{E.Nombre}");
+            Console.WriteLine($"Profesor: {E.Nombre}");
+
+            Console.Write($"El estudiante {Estudiante1.Nombre} "); 
         }
     }
 }
