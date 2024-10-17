@@ -9,16 +9,16 @@ namespace Colegio
 {
     public class Salon
     {
-        Entrenador Eu { get; set; }
-        Estudiante E1 { get; set; }
-        Estudiante E2 { get; set; }
-        Estudiante E3 { get; set; }
+        public Entrenador Eu { get; set; }
+        public Estudiante E1 { get; set; }
+        public Estudiante E2 { get; set; }
+        public Estudiante E3 { get; set; }
         public void PasarAsistencia()
         {
-            Console.WriteLine("HOLA " + Eu.Nombre);
-            Console.WriteLine("HOLA " + E1.Nombre);
-            Console.WriteLine("HOLA " + E2.Nombre);
-            Console.WriteLine("HOLA " + E3.Nombre);
+            Console.WriteLine("HOLA " + Eu.Name);
+            Console.WriteLine("HOLA " + E1.Name);
+            Console.WriteLine("HOLA " + E2.Name);
+            Console.WriteLine("HOLA " + E3.Name);
         }
 
     }
