@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Colegio
 {
-    internal class Salon
+    public class Salon
     {
         public Entrenador Entrenador1 { get; set; }
         public Estudiantes Estudiante1 { get; set; }
@@ -16,10 +16,10 @@ namespace Colegio
 
         public void PasarAsistencia()
         {
-            Console.WriteLine(Entrenador1.Nombre);
-            Console.WriteLine(Estudiante1.Nombre);
-            Console.WriteLine(Estudiante2.Nombre);
-            Console.WriteLine(Estudiante3.Nombre);
+            Console.WriteLine($"Entrenador \n Nombre: {Entrenador1.Nombre} \n Deporte: {Entrenador1.Deporte}");
+            Console.WriteLine($"Estudiante 1 \n Nombre: {Estudiante1.Nombre} \n Edad: {Estudiante1.Edad}");
+            Console.WriteLine($"Estudiante 2 \n Nombre: {Estudiante2.Nombre} \n Edad: {Estudiante2.Edad}");
+            Console.WriteLine($"Estudiante 3 \n Nombre:  {Estudiante3.Nombre} \n Edad: {Estudiante3.Edad}");
         }
 
     }

@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|solutionrelative:colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|solutionrelative:personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|solutionrelative:colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\personas\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|solutionrelative:personas\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\colegio\\colegio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|solutionrelative:colegio\\colegio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|solutionrelative:personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\colegio\\colegio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{16E7DB33-727A-4BB4-9614-0B47BD0227FB}|Colegio\\Colegio.csproj|solutionrelative:colegio\\colegio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|solutionrelative:personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\personas\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E81497-5BED-448C-A705-38A0C156BA63}|Personas\\Personas.csproj|solutionrelative:personas\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\funalgt2-8568\\nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Colegio",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Colegio\\Colegio.csproj",
               "RelativeDocumentMoniker": "Colegio\\Colegio.csproj",
@@ -55,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Salon.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Colegio\\Salon.cs",
               "RelativeDocumentMoniker": "Colegio\\Salon.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Colegio\\Salon.cs",
               "RelativeToolTip": "Colegio\\Salon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:09:02.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Entrenador.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Personas\\Entrenador.cs",
               "RelativeDocumentMoniker": "Personas\\Entrenador.cs",
@@ -81,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Estudiantes.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Personas\\Estudiantes.cs",
               "RelativeDocumentMoniker": "Personas\\Estudiantes.cs",
@@ -100,14 +104,14 @@
               "RelativeDocumentMoniker": "Colegio\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Colegio\\Program.cs",
               "RelativeToolTip": "Colegio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:53:59.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUNALGT2-8568\\Personas\\Program.cs",
               "RelativeDocumentMoniker": "Personas\\Program.cs",
@@ -117,10 +121,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:53:26.294Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
