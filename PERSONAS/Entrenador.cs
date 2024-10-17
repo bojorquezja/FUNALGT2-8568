@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PERSONAS
 {
-    internal class Entrenador
+    public class Entrenador
     {
         public string Nombre { get; set; }
         public string Deporte { get; set; }
