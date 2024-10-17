@@ -7,6 +7,8 @@ Estudiante e2 = new Estudiante();
 Estudiante e3 = new Estudiante();
 
 
+
+
 Entrenador E = new Entrenador();
 
 Console.WriteLine("Ingrese el nombre del estudiante 1: ");
