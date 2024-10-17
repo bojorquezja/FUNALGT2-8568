@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{56ABA902-9BC5-4D58-84D1-40576ACCCCFD}|COLEGIO\\COLEGIO.csproj|solutionrelative:colegio\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56ABA902-9BC5-4D58-84D1-40576ACCCCFD}|COLEGIO\\COLEGIO.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56ABA902-9BC5-4D58-84D1-40576ACCCCFD}|COLEGIO\\COLEGIO.csproj|solutionrelative:colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|solutionrelative:personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|solutionrelative:personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|solutionrelative:personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|solutionrelative:personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FA6A35-C309-4A0B-8461-F98DDA1D7565}|PERSONAS\\PERSONAS.csproj|solutionrelative:personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ABA902-9BC5-4D58-84D1-40576ACCCCFD}|COLEGIO\\COLEGIO.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ABA902-9BC5-4D58-84D1-40576ACCCCFD}|COLEGIO\\COLEGIO.csproj|solutionrelative:colegio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\desktop\\t2\\funalgt2-8568\\nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,14 +44,14 @@
               "RelativeDocumentMoniker": "COLEGIO\\Salon.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\COLEGIO\\Salon.cs*",
               "RelativeToolTip": "COLEGIO\\Salon.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:00:23.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\nousar\\Program.cs",
               "RelativeDocumentMoniker": "nousar\\Program.cs",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\COLEGIO\\Program.cs",
               "RelativeDocumentMoniker": "COLEGIO\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\COLEGIO\\Program.cs*",
               "RelativeToolTip": "COLEGIO\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:00:09.442Z",
               "EditorCaption": ""
@@ -83,27 +83,27 @@
               "RelativeDocumentMoniker": "PERSONAS\\Estudiante.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\PERSONAS\\Estudiante.cs",
               "RelativeToolTip": "PERSONAS\\Estudiante.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:54:58.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Entrenador.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\PERSONAS\\Entrenador.cs",
               "RelativeDocumentMoniker": "PERSONAS\\Entrenador.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\PERSONAS\\Entrenador.cs",
               "RelativeToolTip": "PERSONAS\\Entrenador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:53:55.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\T2\\FUNALGT2-8568\\PERSONAS\\Program.cs",
               "RelativeDocumentMoniker": "PERSONAS\\Program.cs",

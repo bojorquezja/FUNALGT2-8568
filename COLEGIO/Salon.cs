@@ -16,7 +16,7 @@ namespace COLEGIO
         public Entrenador E { get; set }
         public void PasarAsistencia()
         {
-            Console.WriteLine($"Profesor: \n{E.Nombre}"
+            Console.WriteLine($"Profesor: \n{E.Nombre}");
 
             Console.WriteLine($"El estudiante {Estudiante1.Nombre}");
 );
