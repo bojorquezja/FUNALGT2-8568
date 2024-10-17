@@ -27,8 +27,11 @@ Console.ReadKey();
 
 
 s.Est1 = estudiante1;
+
 s.Est2 = estudiante2;
+
 s.Est3 = estudiante3;
+
 s.Ent1 = entrenador1;
 
 s.pasarAsistencia();

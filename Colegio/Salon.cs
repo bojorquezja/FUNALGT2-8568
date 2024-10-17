@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Colegio;
 
 namespace Colegio
 {
@@ -20,6 +21,7 @@ namespace Colegio
             Console.WriteLine($"Estudiante 1: {Est3.Nombre}");
 
         }
+        // ignorar esto
 
     }
 }
