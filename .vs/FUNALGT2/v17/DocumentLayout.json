@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63465A23-9658-43C4-A5FB-D8CBBC9F4EE0}|ClassLibrary1.\\ClassLibrary1.csproj|c:\\users\\upn\\desktop\\ejerciciost2\\ejerciciost2.c\\classlibrary1.\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63465A23-9658-43C4-A5FB-D8CBBC9F4EE0}|ClassLibrary1.\\ClassLibrary1.csproj|solutionrelative:classlibrary1.\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\desktop\\ejerciciost2\\ejerciciost2.c\\nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:49:53.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\Program.cs",
               "RelativeDocumentMoniker": "nousar\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\EjerciciosT2\\EjerciciosT2.C\\nousar\\Program.cs",
               "RelativeToolTip": "nousar\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T11:29:35.739Z",
               "EditorCaption": ""
