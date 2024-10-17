@@ -30,4 +30,10 @@ E.Nombre = Console.ReadLine();
 Console.WriteLine("Ingrese el deporte del profesor");
 E.Deporte = Console.ReadLine();
 
+a.Estudiante1 = e1;
+a.Estudiante2 = e2;
+a.Estudiante3 = e3;
+
+a.E = E;
+
 a.PasarAsistencia();

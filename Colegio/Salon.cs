@@ -9,13 +9,18 @@ namespace Colegio
 {
     public class Salon
     {
+        
+        public Estudiante Estudiante1 { get; set; }
+        public Estudiante Estudiante2 { get; set; }
+        public Estudiante Estudiante3 { get; set; }
 
-        Estudiante e1 = new Estudiante();
-        Estudiante e2 = new Estudiante();
-        Estudiante e3 = new Estudiante();
+        public Entrenador E { get; set; }
 
         public void PasarAsistencia() {
-            Console.WriteLine($"Asistencia:{e1.Nombre}");
+            Console.WriteLine($"Asistencia:{Estudiante1.Nombre}");
+            Console.WriteLine($"{Estudiante2.Nombre}");
+            Console.WriteLine($"{Estudiante3.Nombre}");
+            Console.WriteLine($"Profesor:{E.Nombre}");
         }
     }
 }

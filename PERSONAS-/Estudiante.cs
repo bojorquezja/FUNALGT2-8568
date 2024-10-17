@@ -9,6 +9,7 @@ namespace Personas
     public class Estudiante
     {
         public string Nombre { get; set; }
+
         public int Edad { get; set; }
 
         public void Corre()
@@ -18,6 +19,10 @@ namespace Personas
 
         public void Estudia() {
             Console.WriteLine("El estudiante empezó a estudiar");
+        }
+
+        public void ToString() { 
+            return;
         }
 
 
