@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Personas
 {
-    internal class Estudiante
+    public class Estudiante
     {
         public string Nombre { get; set; }
         public int Edad { get; set; }
