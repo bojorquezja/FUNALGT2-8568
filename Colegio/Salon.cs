@@ -14,10 +14,10 @@ namespace Colegio
 
         public void PasarAsistencia()
         {
-            Console.WriteLine($"Entrenador: {Entrenador.Nom}");
+            Console.WriteLine($"El nombre del entrenador es: {Entrenador.Nom}");
             for (int i = 0; i < Estudiantes.Length; i++)
             {
-                Console.WriteLine($"Estudiante {i + 1}: {Estudiantes[i].Nom}");
+                Console.WriteLine($"El nombre del estudiante {i + 1} es: {Estudiantes[i].Nom}");
             }
         }
 
