@@ -31,3 +31,5 @@ salon.Entr1 = en1;
 salon.Pasarlista();
 e1.Estudia();
 en1.Haceejercicio();
+en1.EntrenaEstudiantes();
+Console.ReadKey();
