@@ -20,8 +20,8 @@ Console.ReadKey();
 Console.WriteLine("Ingrese el nombre del Entrenador: ");
 Entrenador entrenador1 = new Entrenador();
 entrenador1.Nombre = Console.ReadLine();
-Console.WriteLine("Ingrese la edad del entrenador: ");
-entrenador1.Edad= int.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese el deporte del entrenador: ");
+entrenador1.Deporte= Console.ReadLine();
 Console.WriteLine("Entrenador asignado al Salon correctamente");
 Console.ReadKey();
 

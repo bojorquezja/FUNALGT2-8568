@@ -9,7 +9,7 @@ namespace Personas
     public class Entrenador
     {
         public string Nombre { get; set; }
-        public int Edad { get; set; }
+        public string Deporte { get; set; }
 
         public void HaceEjercicio() {
             Console.WriteLine("Entreno para estar mas saludable !");
