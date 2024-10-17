@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Personas
 {
-    internal class Entrenador
+    public class Entrenador
     {
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+
+        public void HaceEjercicio() {
+            Console.WriteLine("Entreno para estar mas saludable !");
+        }
+        public void EntrenaEstudiantes()
+        {
+            Console.WriteLine("Con mas fuerza! denle animo!");
+        }
+
     }
 }
