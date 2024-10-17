@@ -33,6 +33,7 @@ s.Est2 = estudiante2;
 s.Est3 = estudiante3;
 
 s.Ent1 = entrenador1;
+Console.Clear();
 Console.WriteLine("///////////////////////////////////////");
 s.pasarAsistencia();
 Console.WriteLine("///////////////////////////////////////");
