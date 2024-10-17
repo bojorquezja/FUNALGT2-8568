@@ -15,11 +15,12 @@ namespace Colegio
         public void PasarAsistencia()
         {
             Console.WriteLine($"Entrenador: {Entrenador.Nom}");
-            foreach (var estudiante in Estudiantes)
+            for (int i = 0; i < Estudiantes.Length; i++)
             {
-                Console.WriteLine($"Estudiante: {estudiante.Nom}");
+                Console.WriteLine($"Estudiante {i + 1}: {Estudiantes[i].Nom}");
             }
         }
+
     }
 }
 
