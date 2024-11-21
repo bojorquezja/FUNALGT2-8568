@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\funalgt2\\nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\personas\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\colegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\colegio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\personas\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\Personas\\Estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Personas\\Estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|c:\\users\\upn\\downloads\\t2-sebastiangarboza-\\nousar\\nousar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C26243E6-6204-41C5-964B-20FF80DA49EF}|nousar\\nousar.csproj|solutionrelative:nousar\\nousar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\Program.cs",
-              "RelativeDocumentMoniker": "nousar\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\FUNALGT2\\nousar\\Program.cs",
-              "RelativeToolTip": "nousar\\Program.cs",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\Personas\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Personas\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\Personas\\Estudiante.cs",
+              "RelativeToolTip": "Personas\\Estudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T11:29:35.739Z",
+              "WhenOpened": "2024-10-17T13:20:13.866Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Estudiante.cs",
+              "RelativeDocumentMoniker": "nousar\\Personas\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Estudiante.cs",
+              "RelativeToolTip": "nousar\\Personas\\Estudiante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:58:56.538Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entrenador.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Entrenador.cs",
+              "RelativeDocumentMoniker": "nousar\\Personas\\Entrenador.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Personas\\Entrenador.cs",
+              "RelativeToolTip": "nousar\\Personas\\Entrenador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:58:49.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nousar",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\nousar.csproj",
+              "RelativeDocumentMoniker": "nousar\\nousar.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\nousar.csproj",
+              "RelativeToolTip": "nousar\\nousar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T12:58:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Salon.cs",
+              "RelativeDocumentMoniker": "nousar\\Salon.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Salon.cs*",
+              "RelativeToolTip": "nousar\\Salon.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:41:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colegio.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Colegio.cs",
+              "RelativeDocumentMoniker": "nousar\\Colegio.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\T2-SebastianGarboza-\\nousar\\Colegio.cs*",
+              "RelativeToolTip": "nousar\\Colegio.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:29:35.739Z",
+              "EditorCaption": ""
             }
           ]
         }
